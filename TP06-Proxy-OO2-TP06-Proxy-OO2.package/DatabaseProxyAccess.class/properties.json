@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "DatabaseAccess",
+	"category" : "TP06-Proxy-OO2-TP06-Proxy-OO2",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"dataBaseRealAccess",
+		"usuario"
+	],
+	"name" : "DatabaseProxyAccess",
+	"type" : "normal"
+}

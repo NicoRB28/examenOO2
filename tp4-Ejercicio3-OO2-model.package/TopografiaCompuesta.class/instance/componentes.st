@@ -1,0 +1,4 @@
+accessing
+componentes
+
+	^componentes .

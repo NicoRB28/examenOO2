@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "State",
+	"category" : "tp5-ejercicio1-OO2-model",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"finishDateAndTime"
+	],
+	"name" : "Finished",
+	"type" : "normal"
+}

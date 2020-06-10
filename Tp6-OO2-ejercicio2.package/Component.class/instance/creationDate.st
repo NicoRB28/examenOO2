@@ -1,0 +1,4 @@
+accessing
+creationDate
+
+	 ^self subclassResponsibility .

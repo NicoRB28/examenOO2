@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "",
+	"super" : "TestCase",
+	"category" : "tp4-Ejercicio3-OO2-tests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"agua1",
+		"agua2",
+		"tierra1",
+		"tierra2",
+		"tComp"
+	],
+	"name" : "TopografiaTest",
+	"type" : "normal"
+}

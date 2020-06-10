@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "tp4-Ejercicio3-OO2-model",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"proporcion"
+	],
+	"name" : "Topografia",
+	"type" : "normal"
+}

@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "Componente",
+	"category" : "tp4-Ejercicio4-OO2-modelo",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"contenido"
+	],
+	"name" : "Directorio",
+	"type" : "normal"
+}

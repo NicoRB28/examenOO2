@@ -1,0 +1,4 @@
+accessing
+permissions
+
+	^component permissions.

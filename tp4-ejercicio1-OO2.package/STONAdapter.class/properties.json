@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "Exporter",
+	"category" : "tp4-ejercicio1-OO2",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "STONAdapter",
+	"type" : "normal"
+}

@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "tp5-ejercicio3-OO2-model",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"ringer",
+		"display",
+		"connection",
+		"crcCalculator"
+	],
+	"name" : "Dispositivo",
+	"type" : "normal"
+}

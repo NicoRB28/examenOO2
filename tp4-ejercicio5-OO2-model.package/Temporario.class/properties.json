@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "Empleado",
+	"category" : "tp4-ejercicio5-OO2-model",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"horasTrabajadas",
+		"estadoCivil",
+		"hijosACargo"
+	],
+	"name" : "Temporario",
+	"type" : "normal"
+}

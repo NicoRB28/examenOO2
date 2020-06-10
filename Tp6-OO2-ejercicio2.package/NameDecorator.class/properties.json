@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "FileDecorator",
+	"category" : "Tp6-OO2-ejercicio2",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "NameDecorator",
+	"type" : "normal"
+}

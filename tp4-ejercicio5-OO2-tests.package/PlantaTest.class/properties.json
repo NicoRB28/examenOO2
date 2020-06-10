@@ -1,0 +1,19 @@
+{
+	"commentStamp" : "",
+	"super" : "TestCase",
+	"category" : "tp4-ejercicio5-OO2-tests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"plantaSolteroSinHijosConAntiguedad",
+		"plantaSolteroConHijosConAntiguedad",
+		"plantaCasadoSinHijosSinAntiguedad",
+		"plantaCasadoConHijosConAntiguedad",
+		"plantaCasadoSinHijosConAntiguedad",
+		"plantaSolteroSinHijosSinAntiguedad",
+		"plantaCasadoConHijosSinAntiguedad"
+	],
+	"name" : "PlantaTest",
+	"type" : "normal"
+}

@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "",
+	"super" : "TestCase",
+	"category" : "tp4-ejercicio5-OO2-tests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"tempSolteroSinHijos",
+		"tempCasadoSinHijos",
+		"tempSolteroConHijos",
+		"tempCasadoConHijos"
+	],
+	"name" : "TemporarioTest",
+	"type" : "normal"
+}

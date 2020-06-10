@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "tp5-ejercicio1-OO2-model",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"state",
+		"name",
+		"comments",
+		"dateInit"
+	],
+	"name" : "ToDoItem",
+	"type" : "normal"
+}

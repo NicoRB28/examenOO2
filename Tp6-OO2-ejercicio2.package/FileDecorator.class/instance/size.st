@@ -1,0 +1,4 @@
+accessing
+size 
+
+	^component size.

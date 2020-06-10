@@ -1,0 +1,4 @@
+accessing
+updateDate 
+
+	^self subclassResponsibility .

@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "Connection",
+	"category" : "tp5-ejercicio3-OO2-model",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"connection4G"
+	],
+	"name" : "Adapter4GConnection",
+	"type" : "normal"
+}

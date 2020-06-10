@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "Topografia",
+	"category" : "tp4-Ejercicio3-OO2-model",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"componentes"
+	],
+	"name" : "TopografiaCompuesta",
+	"type" : "normal"
+}

@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "Connection",
+	"category" : "tp5-ejercicio3-OO2-model",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"pict"
+	],
+	"name" : "WifiConn",
+	"type" : "normal"
+}

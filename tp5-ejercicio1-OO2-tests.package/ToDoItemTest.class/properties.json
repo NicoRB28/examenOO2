@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "",
+	"super" : "TestCase",
+	"category" : "tp5-ejercicio1-OO2-tests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"toDoPending",
+		"toDoInProgress",
+		"toDoPaused",
+		"toDoFinished",
+		"toDoConFecha"
+	],
+	"name" : "ToDoItemTest",
+	"type" : "normal"
+}

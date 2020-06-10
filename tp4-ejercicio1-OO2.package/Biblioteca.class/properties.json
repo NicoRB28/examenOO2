@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "tp4-ejercicio1-OO2",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"socios",
+		"exporter"
+	],
+	"name" : "Biblioteca",
+	"type" : "normal"
+}

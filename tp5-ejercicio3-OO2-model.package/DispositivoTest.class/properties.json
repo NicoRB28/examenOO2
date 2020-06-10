@@ -1,0 +1,20 @@
+{
+	"commentStamp" : "",
+	"super" : "TestCase",
+	"category" : "tp5-ejercicio3-OO2-model",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"dispoWifi",
+		"dispo4G",
+		"ringer",
+		"display",
+		"adapter4G",
+		"wifi",
+		"crc16",
+		"crc32"
+	],
+	"name" : "DispositivoTest",
+	"type" : "normal"
+}

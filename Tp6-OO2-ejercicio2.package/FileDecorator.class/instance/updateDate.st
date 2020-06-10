@@ -1,0 +1,4 @@
+accessing
+updateDate 
+
+	^component updateDate.
